@@ -4,7 +4,7 @@
   <h1> 🌠 배재희 Jaehee Bae 🌠 </h1>
   <p>개발 학원을 다니면서 복습한 것들과 파이널 프로젝트, 공부 중인 것들을 기록하고 있습니다.</p>
   <br>
-  <h1>:hammer: Skill Stack</h1>
+  <h1>:hammer: Tech Stack</h1>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
