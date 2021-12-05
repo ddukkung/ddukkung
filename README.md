@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:8cb8ff&height=300&section=header&text=Jaehee%20Bae&fontColor=FFFFFF&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:8cb8ff&height=300&section=header&text=Hello&fontColor=FFFFFF&fontSize=90" />
   <h1> 🌠 배재희 Jaehee Bae 🌠 </h1>
   <p>웹 개발 학원을 다니면서 복습한 것들과 파이널 프로젝트, 공부 중인 것들을 기록하고 있습니다.</p>
   <br>
