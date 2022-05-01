@@ -13,7 +13,7 @@
   <h1>Contact</h1>
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bjh3657@gmail.com)](mailto:gjznn3657@gmail.com)
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://miree.tistory.com/)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&link=https://miree.tistory.com/)](https://miree.tistory.com/)
 
   <br>
   <br>
